@@ -1,0 +1,46 @@
+{
+    "tajuk": "PAPARAN INFORMASI DIGITAL SEKOLAH MENENGAH KEBANGSAAN SULTAN AHMAD",
+    "moto": "STAMAD SHOOT TO THE TOP!",
+    "logoUrl": "roket.png",
+    "latarUrl": "latar.jpg",
+    "latarOpacity": 0.90000000000000002220446049250313080847263336181640625,
+    "gps": [
+        {
+            "label": "GPS SPM",
+            "nilai": "4.48"
+        },
+        {
+            "label": "GPS STPM",
+            "nilai": "3.27"
+        }
+    ],
+    "countdown": [
+        {
+            "label": "SPM",
+            "tarikh": "2026-12-07T00:00:00.000Z"
+        },
+        {
+            "label": "STPM S1",
+            "tarikh": "2026-01-01T04:00:00.000Z"
+        },
+        {
+            "label": "STPM S2",
+            "tarikh": "2026-01-01T04:00:00.000Z"
+        },
+        {
+            "label": "STPM S3",
+            "tarikh": "2026-01-01T04:00:00.000Z"
+        }
+    ],
+    "slaidUrl": "https://docs.google.com/presentation/d/e/2PACX-1vSfjpse1th_fFLos1EpCjqOjREOcpPgMzVstWYzK7caXk8IL0H60zJt7G3GWKT8u-y5y4ggBSpyaFp7/pubembed?start=true&loop=true&delayms=5000",
+    "sheetUrl": "",
+    "solatUrl": "https://www.e-solat.gov.my/portalassets/www2/solatC.php?kod=TRG01&lang=BM&url=http:/www.islam.gov.my",
+    "refreshSaat": 254,
+    "teksBerjalan": "Selamat datang ke STAMAD TV • Sila ikuti pengumuman terkini di papan info • STAMAD SHOOT TO THE TOP!",
+    "cuacaLokasi": "",
+    "cuacaLat": 0,
+    "cuacaLon": 0,
+    "cuacaAktif": false,
+    "rssUrl": "https://rss.app/feeds/0q20i5CxKfD3ppJ9.xml",
+    "rssAktif": true
+}
